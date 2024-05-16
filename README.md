@@ -7,9 +7,9 @@ Hang Weng
  
 This project using grids display.
 To run this project, the user need to open a terminal(power shell or through VS code), and under the /server, run some command.
- 'npm express' for expression.
+ 'npm install express' for expression.
 And
-'install pg' for database connection.
+'npm install pg' for database connection.
 After that it should be able to run locally.
 If there is no npm or node.js environment please install it. It can find the method easily by searching GOOGLE.
 
